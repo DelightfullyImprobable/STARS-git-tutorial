@@ -1,27 +1,25 @@
 # Site settings
 name: Leanne Barry
-description: "Nifty little description"
+description: "UNC Charlotte Class of 2016"
 url: ""
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  delightfullyimprobable
-facebook_username: your_facebook_username_goes_here
-google_plus_username: ltbarry4
-linkedin_username: your_linked_in_username_goes_here
-instagram_username:  your_instagram_username_goes_here
-steam_username: your_steam_username_goes_here
-reddit_username: your_reddit_username_goes_here
+facebook_username: musicofinsanity
+linkedin_username: leanne-barry-240017109
+instagram_username:  delightfullyimprobable
+steam_username: musicofinsanity
+reddit_username: AliceThursday
 email: ltbarry4@gmail.com
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
 avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
+#avatar_img_path: "imgs/avatar.jpg"
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "https://www.instagram.com/delightfullyimprobable/"
 
 
 front_img: yes
